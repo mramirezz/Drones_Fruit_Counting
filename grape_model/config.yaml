@@ -1,0 +1,6 @@
+path: G:\Mi unidad\Phydata\dron-project-main\grape_model\dataset\dataset_yolo
+train: images/train   
+val: images/val
+
+names:
+  0: grape
